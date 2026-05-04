@@ -17,7 +17,7 @@
     | ---           | ---                     | ---       | ---       |
     | Mosquito      | 26.5                    | 25.5      | 21.5      |
     | VolcoMosq     | 26.5                    | 25.5      | 21.5      |
-    | Teakettle     | unknown*                | unknown*  | unknown*  |
+    | Chube Compact | unknown*                | unknown*  | unknown*  |
     | Dragon        | 27.5                    | 26.5      | 22.5      |
     | Rapido HF     | unknown*                | unknown*  | unknown*  |
     
@@ -87,13 +87,13 @@ VolcoMosq
 - `volcomosq_brace_for_probe_mount_x1`
 - `volcomosq_fan_spacer_x2`
 
-Teakettle
+Chube Compact
 - main body (depends on your extruder):
-  - Sherpa Mini: `sherpa_mini_teakettle_main_body_x1`
-  - Sherpa Micro: `sherpa_micro_teakettle_main_body_x1`
-  - Ascender: `ascender_teakettle_main_body_x1`
-- `teakettle_brace_for_probe_mount_x1`
-- `teakettle_fan_shroud_outlet_x1`
+  - Sherpa Mini: `sherpa_mini_chube_compact_main_body_x1`
+  - Sherpa Micro: `sherpa_micro_chube_compact_main_body_x1`
+  - Ascender: `ascender_chube_compact_main_body_x1`
+- `chube_compact_brace_for_probe_mount_x1`
+- `chube_compact_fan_shroud_outlet_x1`
 - `rail_cart_screw_spacer_0.5mm_x1`
   - If your rail cart screw holes are tapped to at least 3.5mm deep, you can
     omit this part.
